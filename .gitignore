@@ -1,11 +1,14 @@
 /*.gz
 /*.iso
 /*.img
+/*.tar
 /mini/*.gz
 /mini/*.iso
 /mini/*.img
 /tmp/
 /mini/tmp/
+/conf/*.conf
+/customfiles/*
 /packages/*.txz
 /mini/packages/*.txz
 /tools/pkg-static
